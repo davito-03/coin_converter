@@ -7,7 +7,7 @@ This Python project allows you to easily convert between different currencies us
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/coin_converter.git
+git clone https://github.com/davito-03/coin_converter.git
 ```
 Navigate into the project directory:
 
