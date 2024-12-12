@@ -1,0 +1,31 @@
+USD - United States Dollar
+EUR - Euro
+GBP - British Pound
+JPY - Japanese Yen
+AUD - Australian Dollar
+CAD - Canadian Dollar
+CHF - Swiss Franc
+CNY - Chinese Yuan
+INR - Indian Rupee
+MXN - Mexican Peso
+BRL - Brazilian Real
+ARS - Argentine Peso
+COP - Colombian Peso
+PEN - Peruvian Nuevo Sol
+CLP - Chilean Peso
+ZAR - South African Rand
+SEK - Swedish Krona
+NOK - Norwegian Krone
+DKK - Danish Krone
+HKD - Hong Kong Dollar
+SGD - Singapore Dollar
+MYR - Malaysian Ringgit
+NZD - New Zealand Dollar
+RUB - Russian Ruble
+KRW - South Korean Won
+TRY - Turkish Lira
+AED - United Arab Emirates Dirham
+SAR - Saudi Riyal
+THB - Thai Baht
+IDR - Indonesian Rupiah
+PHP - Philippine Peso
