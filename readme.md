@@ -8,29 +8,40 @@ To get started, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/coin_converter.git
+```
 Navigate into the project directory:
 
-bash
+```bash
 cd coin_converter
+```
+
 Then, create and activate a virtual environment:
 
 On Windows, use:
 
-bash
+```bash
 .\venv\Scripts\activate
+```
+
 On Mac/Linux, use:
 
-bash
+```bash
 source venv/bin/activate
+```
+
 Afterward, install the required dependencies:
 
-bash
+```bash
 pip install requests
+```
+
 Usage
 To use the currency converter, run the script with:
 
-bash
+```bash
 python converter.py
+```
+
 The program will ask you to enter the source currency, the target currency, and the amount you want to convert.
 
 Available Currencies
