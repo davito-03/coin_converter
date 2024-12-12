@@ -48,4 +48,5 @@ Available Currencies
 For a list of supported currencies, check the monedas_disponibles.txt file.
 
 License
+
 This project is licensed under the MIT License.
