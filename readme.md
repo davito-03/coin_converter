@@ -35,7 +35,7 @@ Afterward, install the required dependencies:
 pip install requests
 ```
 
-Usage
+# Usage
 To use the currency converter, run the script with:
 
 ```bash
@@ -44,9 +44,10 @@ python converter.py
 
 The program will ask you to enter the source currency, the target currency, and the amount you want to convert.
 
-Available Currencies
+# Available Currencies
+
 For a list of supported currencies, check the monedas_disponibles.txt file.
 
-License
+# License
 
 This project is licensed under the MIT License.
